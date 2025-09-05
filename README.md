@@ -55,6 +55,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)  
 
 **Other:**  
+![Git](https://img.shields.io/badge/Git-F24E1E?logo=git&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white) 
