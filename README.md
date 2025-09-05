@@ -88,7 +88,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=earlfranciss&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="130" width="270" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=earlfranciss&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="140" width="280" />
   <img src="https://github-readme-stats.vercel.app/api?username=earlfranciss&show_icons=true&locale=en&theme=tokyonight" height="220" width="320" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=earlfranciss&theme=tokyonight" height="240" width="340" />
 </div>
