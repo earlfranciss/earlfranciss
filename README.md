@@ -87,11 +87,11 @@
 ---
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=earlfranciss&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="earlfranciss" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=earlfranciss&show_icons=true&locale=en&theme=tokyonight" alt="earlfranciss" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=earlfranciss&&theme=tokyonight" alt="earlfranciss" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=earlfranciss&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="180" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=earlfranciss&show_icons=true&locale=en&theme=tokyonight" height="180" width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=earlfranciss&theme=tokyonight" height="180" width="300" />
+</div>
 
 ---
 
