@@ -90,7 +90,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=earlfranciss&show_icons=true&locale=en&theme=tokyonight" height="260" width="320" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=earlfranciss&theme=tokyonight" height="260" width="340" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=earlfranciss&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="160" width="280" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=earlfranciss&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="150" width="280" />
 </div>
 
 ---
