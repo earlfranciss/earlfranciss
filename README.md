@@ -49,8 +49,8 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [linkedin.com/in/earl-francis](www.linkedin.com/in/earl-francis-o-3370a3205)  
-- Email: earlfrancisong@example.com  
+- LinkedIn: [linkedin.com/in/earl-francis-o-3370a3205](https://www.linkedin.com/in/earl-francis-o-3370a3205).
+- Email: earlfrancisong@gmail.com  
 - Portfolio Website: *(coming soon)*  
 
 ---
