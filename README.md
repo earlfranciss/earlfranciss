@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Earl Francis Ong  
 
-🎓 BS Computer Science Graduate
+🎓 BS Computer Science Graduate 
+
 💻 Software Engineer Trainee | SRE/DevOps Enthusiast | AI & Cybersecurity Explorer  
+
 🌱 Currently learning: Site Reliability Engineering, DevOps practices, and Cloud Systems  
 
 ---
