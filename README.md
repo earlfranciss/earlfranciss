@@ -69,10 +69,10 @@
 ## 📂 Featured Projects
 
 - **📱 SwiftShield – Phishing Detection App**
--   AI-driven detection & prevention of phishing attacks (Mobile App).
+    AI-driven detection & prevention of phishing attacks (Mobile App).
 
 - **🖥️ Equipment Management System**
--   Desktop system for tracking and managing IT equipment.
+- Desktop system for tracking and managing IT equipment.
 
 - **📊 Teacher’s Event Management System**
 -   Desktop + web system for planning and organizing school events.
