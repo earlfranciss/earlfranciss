@@ -69,22 +69,22 @@
 ## 📂 Featured Projects
 
 - **📱 SwiftShield – Phishing Detection App**
-    AI-driven detection & prevention of phishing attacks (Mobile App).
+    -- AI-driven detection & prevention of phishing attacks (Mobile App).
 
 - **🖥️ Equipment Management System**
-- Desktop system for tracking and managing IT equipment.
+    -- Desktop system for tracking and managing IT equipment.
 
 - **📊 Teacher’s Event Management System**
--   Desktop + web system for planning and organizing school events.
+    -- Desktop + web system for planning and organizing school events.
 
 - **💰 FinTrack AI (WIP)**
--   Personal finance management app with AI budgeting suggestions.
+    -- Personal finance management app with AI budgeting suggestions.
 
 - **🏃 Stride – AI Running Coach (WIP)**
--   Web app with Strava integration that generates adaptive training plans and supports charity runs.
+    -- Web app with Strava integration that generates adaptive training plans and supports charity runs.
 
 - **⏱️ ProductivIO (WIP)**
-- Productivity tracker that uses AI to analyze work patterns and suggest focus improvements.
+    -- Productivity tracker that uses AI to analyze work patterns and suggest focus improvements.
 
 ---
 
