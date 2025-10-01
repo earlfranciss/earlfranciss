@@ -77,13 +77,13 @@
 - **📊 Teacher’s Event Management System**  
   *Desktop system for planning and organizing school events.*
 
-- **💰 FinTrack AI (WIP)**  
+- **💰 FinPal AI (WIP)**  
   *Personal finance management app with AI budgeting suggestions.*
 
 - **🏃 Stride – AI Running Coach (WIP)**  
   *Web app with Strava integration that generates adaptive training plans and supports charity runs.*
 
-- **⏱️ ProductivIO - Productivity Management Platform(WIP)**  
+- **⏱️ ProductivIO - Productivity Management Platform (WIP)**  
   *Web app for task tracking, Pomodoro sessions, flashcards, quizzes, and personal productivity analytics.*
 
 ---
