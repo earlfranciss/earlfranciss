@@ -11,8 +11,6 @@
 
 <p align="center">
 I'm a passionate Software Engineer from the Philippines 🇵🇭, focused on building reliable, efficient, and scalable applications. I enjoy bridging the gap between development and operations—crafting solutions that not only work but perform seamlessly in production environments.<br><br>
-🌱 <b>Currently learning:</b> Site Reliability Engineering, DevOps practices, and Cloud Systems<br>
-🚀 <b>Interests:</b> AI/ML, Cybersecurity, and Cloud-Native Engineering
 </p>
 
 ###
@@ -20,7 +18,12 @@ I'm a passionate Software Engineer from the Philippines 🇵🇭, focused on bui
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,react,tailwind,py,flask,vue,ts,js,figma,mongodb,azure,docker,git,github" height="36" />
 </div>
+###
 
+<p align="center">
+🌱 <b>Currently learning:</b> Site Reliability Engineering, DevOps practices, and Cloud Systems<br>
+🚀 <b>Interests:</b> AI/ML, Cybersecurity, and Cloud-Native Engineering
+</p>
 ###
 
 <div>
