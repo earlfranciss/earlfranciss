@@ -1,129 +1,128 @@
-# 👋 Hi, I'm Earl Francis Ong  
+<h2 align="center">Hey 👋, I'm Earl!</h2>
 
-🎓 BS Computer Science Graduate 
+###
 
-💻 Software Engineer Trainee | SRE/DevOps Enthusiast | AI & Cybersecurity Explorer  
+<h4 align="center">Associate Software Engineer | DevOps & Cloud Practitioner | AI & Cybersecurity Enthusiast</h4>
 
-🌱 Currently learning: Site Reliability Engineering, DevOps practices, and Cloud Systems  
+###
 
----
+<p align="center">
+I'm a passionate Software Engineer from the Philippines 🇵🇭, focused on building reliable, efficient, and scalable applications. I enjoy bridging the gap between development and operations—crafting solutions that not only work but perform seamlessly in production environments.<br><br>
+🌱 <b>Currently learning:</b> Site Reliability Engineering, DevOps practices, and Cloud Systems<br>
+🚀 <b>Interests:</b> AI/ML, Cybersecurity, and Cloud-Native Engineering
+</p>
 
-## 🚀 About Me
-- Currently training as a **Software Engineer**, gaining exposure to both **development and DevOps** practices.  
-- Passionate about **building apps from scratch** and deploying them to production.  
-- Strong foundation in **algorithms, data structures, and OOP**.  
-- Exploring **AI/ML, cybersecurity, and cloud-native systems**.  
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white)  
-
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
-![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)  
-
-**Backend:**  
-![.NET](https://img.shields.io/badge/.NET_Core-512BD4?logo=dotnet&logoColor=white) 
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?logo=dotnet&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
-
-**Databases:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
-![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) 
-![MS Access](https://img.shields.io/badge/MS_Access-A4373A?logo=microsoft-access&logoColor=white)  
-
-**Cloud & Tools:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white) 
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)  
-
-**Other:**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white) 
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?logo=google&logoColor=white) 
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?logo=microsoft&logoColor=white)  
-
-
----
-
-## 🚀 Project Portfolio
-
-- **📱 SwiftShield – Phishing Detection App**  
-  *AI-driven detection & prevention of phishing attacks (Mobile App).*
-
-- **🖥️ Equipment Management System**  
-  *Desktop system for tracking and managing IT equipment.*
-
-- **📊 Teacher’s Event Management System**  
-  *Desktop system for planning and organizing school events.*
-
-- **💰 FinPal AI (WIP)**  
-  *Personal finance management app with AI budgeting suggestions.*
-
-- **🏃 Stride – AI Running Coach (WIP)**  
-  *Web app with Strava integration that generates adaptive training plans and supports charity runs.*
-
-- **⏱️ ProductivIO - Productivity Management Platform (WIP)**  
-  *Web app for task tracking, Pomodoro sessions, flashcards, quizzes, and personal productivity analytics.*
-
----
-
-## 🎯 Current Goals
-- Growing as a **full-stack engineer** using ASP .NET Core and React.js.  
-- Learning **DevOps & SRE tools** (CI/CD, containerization, monitoring).  
-- Become an effective **communicator and team collaborator**.  
-
----
-
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=earlfranciss&show_icons=true&locale=en&theme=tokyonight" height="280" width="350" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=earlfranciss&theme=tokyonight" height="280" width="370" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=earlfranciss&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="150" width="280" />
+  <img src="https://skillicons.dev/icons?i=dotnet,react,tailwind,py,flask,vue,ts,js,figma,mongodb,azure,docker,git,github" height="36" />
+</div>
+
+###
+
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt" />
+</div>
+
+###
+
+<h4 align="left">🚀 Project Portfolio</h4>
+
+###
+
+<p align="left">
+📱 <b>SwiftShield</b> – Phishing Detection App<br>
+AI-driven detection & prevention of phishing attacks (Mobile App).<br><br>
+
+🖥️ <b>Equipment Management System</b><br>
+Desktop system for tracking and managing IT equipment.<br><br>
+
+📊 <b>Teacher’s Event Management System</b><br>
+Desktop system for planning and organizing school events.<br><br>
+
+💰 <b>FinPal AI (WIP)</b><br>
+Personal finance management app with AI budgeting suggestions.<br><br>
+
+🏃 <b>Stride – AI Running Coach (WIP)</b><br>
+Web app with Strava integration that generates adaptive training plans and supports charity runs.<br><br>
+
+⏱️ <b>ProductivIO - Productivity Management Platform (WIP)</b><br>
+Web app for task tracking, Pomodoro sessions, flashcards, quizzes, and personal productivity analytics.
+</p>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31xs7vqkn4lpu6n7c6f3ltimuzuu" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xs7vqkn4lpu6n7c6f3ltimuzuu" alt="Spotify recently played" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=earlfranciss&theme=city_lights&hide_border=false&border_radius=5" height="120" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=earlfranciss&theme=nord&row=1&no-bg=false&no-frame=true" height="150" alt="trophy graph" />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/earlfranciss/earlfranciss/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/earlfranciss/earlfranciss/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/earlfranciss/earlfranciss/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<h4 align="center">🌐 Connect with Me</h4>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/earl-francis-o-3370a3205" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="35" alt="Twitter" />
+  </a>
+  <a href="https://facebook.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="35" alt="Facebook" />
+  </a>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="35" alt="Discord" />
+  </a>
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="Instagram" />
+  </a>
+</p>
+
+###
+
+<div align="center">
+  <b>📧 Email:</b> earlfrancisong@gmail.com  
+  <br>
+  <b>🌍 Portfolio Website:</b> *coming soon*
+</div>
+
+###
+
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" />
 </div>
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: [linkedin.com/in/earl-francis-o-3370a3205](https://www.linkedin.com/in/earl-francis-o-3370a3205).
-- Email: earlfrancisong@gmail.com  
-- Portfolio Website: *(coming soon)*  
+## 🎯 Current Goals
+- Growing as a **full-stack engineer** using ASP.NET Core and React.js  
+- Learning **DevOps & SRE tools** (CI/CD, containerization, monitoring)  
+- Becoming an effective **communicator and team collaborator**
 
 ---
 
-⭐️ From [earlfrancisong](https://github.com/earlfranciss)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=earlfranciss&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=earlfranciss&layout=compact&theme=tokyonight" height="180" />
+</div>
 
-<!--
-**earlfranciss/earlfranciss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [earlfranciss](https://github.com/earlfranciss)
