@@ -62,30 +62,8 @@ Web app for task tracking, Pomodoro sessions, flashcards, quizzes, and personal 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/earlfranciss/earlfranciss/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/earlfranciss/earlfranciss/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/earlfranciss/earlfranciss/output/pacman-contribution-graph.svg">
+  <!-- <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/earlfranciss/earlfranciss/output/pacman-contribution-graph.svg"> -->
 </picture>
-
-###
-
-<h4 align="center">🌐 Connect with Me</h4>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/earl-francis-o-3370a3205" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="35" alt="Twitter" />
-  </a>
-  <a href="https://facebook.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="35" alt="Facebook" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="35" alt="Discord" />
-  </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="Instagram" />
-  </a>
-</p>
 
 ###
 
@@ -97,9 +75,7 @@ Web app for task tracking, Pomodoro sessions, flashcards, quizzes, and personal 
 
 ###
 
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" />
-</div>
+
 
 ---
 
@@ -125,6 +101,33 @@ Web app for task tracking, Pomodoro sessions, flashcards, quizzes, and personal 
 </div>
 
 ###
+
+<h4 align="center">🌐 Connect with Me</h4>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/earl-francis-o-3370a3205" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="35" alt="Twitter" />
+  </a>
+  <a href="https://facebook.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="35" alt="Facebook" />
+  </a>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="35" alt="Discord" />
+  </a>
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="Instagram" />
+  </a>
+</p>
+
+###
+
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" />
+</div>
+
 ---
 
 ⭐️ From [earlfranciss](https://github.com/earlfranciss)
