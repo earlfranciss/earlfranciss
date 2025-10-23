@@ -53,15 +53,7 @@ Web app for task tracking, Pomodoro sessions, flashcards, quizzes, and personal 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31xs7vqkn4lpu6n7c6f3ltimuzuu" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xs7vqkn4lpu6n7c6f3ltimuzuu" alt="Spotify recently played" />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=earlfranciss&theme=city_lights&hide_border=false&border_radius=5" height="120" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=earlfranciss&theme=city_lights&hide_border=false&border_radius=5" height="180" alt="streak graph" />
   <img src="https://github-profile-trophy.vercel.app/?username=earlfranciss&theme=nord&row=1&no-bg=false&no-frame=true" height="150" alt="trophy graph" />
 </div>
 
@@ -118,11 +110,21 @@ Web app for task tracking, Pomodoro sessions, flashcards, quizzes, and personal 
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=earlfranciss&show_icons=true&theme=tokyonight" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=earlfranciss&layout=compact&theme=tokyonight" height="180" />
 </div>
 
+--- -->
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31xs7vqkn4lpu6n7c6f3ltimuzuu" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xs7vqkn4lpu6n7c6f3ltimuzuu" alt="Spotify recently played" />
+  </a>
+</div>
+
+###
 ---
 
 ⭐️ From [earlfranciss](https://github.com/earlfranciss)
