@@ -5,7 +5,7 @@
 
 ###
 
-<h4 align="center">Associate Software Engineer | DevOps & Cloud Practitioner | AI & Cybersecurity Enthusiast</h4>
+<h3 align="center">Associate Software Engineer | DevOps & Cloud Practitioner | AI & Cybersecurity Enthusiast</h3>
 
 ###
 
@@ -36,19 +36,14 @@ I'm a passionate Software Engineer from the Philippines 🇵🇭, focused on bui
 <p align="left">
 📱 <b>SwiftShield</b> – Phishing Detection App<br>
 AI-driven detection & prevention of phishing attacks (Mobile App).<br><br>
-
 🖥️ <b>Equipment Management System</b><br>
 Desktop system for tracking and managing IT equipment.<br><br>
-
 📊 <b>Teacher’s Event Management System</b><br>
 Desktop system for planning and organizing school events.<br><br>
-
 💰 <b>FinPal AI (WIP)</b><br>
 Personal finance management app with AI budgeting suggestions.<br><br>
-
 🏃 <b>Stride – AI Running Coach (WIP)</b><br>
 Web app with Strava integration that generates adaptive training plans and supports charity runs.<br><br>
-
 ⏱️ <b>ProductivIO - Productivity Management Platform (WIP)</b><br>
 Web app for task tracking, Pomodoro sessions, flashcards, quizzes, and personal productivity analytics.
 </p>
