@@ -119,13 +119,13 @@ For unique tracks :
   <a href="https://twitter.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="35" alt="Twitter" />
   </a>
-  <a href="https://facebook.com" target="_blank">
+  <a href="[https://facebook.com](https://www.facebook.com/earlfrncis/)" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" height="35" alt="Facebook" />
   </a>
   <a href="https://discord.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="35" alt="Discord" />
   </a>
-  <a href="https://instagram.com" target="_blank">
+  <a href="[https://instagram.com](https://www.instagram.com/_earlfrncis/)" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="Instagram" />
   </a>
 </p>
