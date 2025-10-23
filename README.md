@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/earlfranciss/earlfranciss/main/github-header-banner.png)
 
 
-<h2 align="center">Hey 👋, I'm Earl!</h2>
+<!-- <h2 align="center">Hey 👋, I'm Earl!</h2> -->
 
 ###
 
