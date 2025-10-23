@@ -20,9 +20,9 @@ I'm a passionate Software Engineer from the Philippines 🇵🇭, focused on bui
 </div>
 
 
-<p align="center">
+<p align="center"><br>
 🌱 <b>Currently learning:</b> Site Reliability Engineering, DevOps practices, and Cloud Systems<br>
-🚀 <b>Interests:</b> AI/ML, Cybersecurity, and Cloud-Native Engineering
+🚀 <b>Interests:</b> AI/ML, Cybersecurity, and Cloud-Native Engineering<br>
 </p>
 
 
