@@ -67,14 +67,6 @@ Web app for task tracking, Pomodoro sessions, flashcards, quizzes, and personal 
 
 ###
 
-<div align="center">
-  <b>📧 Email:</b> earlfrancisong@gmail.com  
-  <br>
-  <b>🌍 Portfolio Website:</b> *coming soon*
-</div>
-
-###
-
 
 
 ---
@@ -102,6 +94,13 @@ Web app for task tracking, Pomodoro sessions, flashcards, quizzes, and personal 
 
 ###
 
+
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" />
+</div>
+
+###
+
 <h4 align="center">🌐 Connect with Me</h4>
 
 <p align="center">
@@ -112,7 +111,7 @@ Web app for task tracking, Pomodoro sessions, flashcards, quizzes, and personal 
     <img src="https://skillicons.dev/icons?i=twitter" height="35" alt="Twitter" />
   </a>
   <a href="https://facebook.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="35" alt="Facebook" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" height="35" alt="Facebook" />
   </a>
   <a href="https://discord.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="35" alt="Discord" />
@@ -124,9 +123,13 @@ Web app for task tracking, Pomodoro sessions, flashcards, quizzes, and personal 
 
 ###
 
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" />
+<div align="center">
+  <b>Email:</b> earlfrancisong@gmail.com  
+  <br>
+  <b>Portfolio Website:</b> *coming soon*
 </div>
+
+###
 
 ---
 
