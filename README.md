@@ -18,13 +18,13 @@ I'm a passionate Software Engineer from the Philippines 🇵🇭, focused on bui
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,react,tailwind,py,flask,vue,ts,js,figma,mongodb,azure,docker,git,github" height="36" />
 </div>
-###
+
 
 <p align="center">
 🌱 <b>Currently learning:</b> Site Reliability Engineering, DevOps practices, and Cloud Systems<br>
 🚀 <b>Interests:</b> AI/ML, Cybersecurity, and Cloud-Native Engineering
 </p>
-###
+
 
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt" />
