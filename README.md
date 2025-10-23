@@ -51,6 +51,15 @@ Web app for task tracking, Pomodoro sessions, flashcards, quizzes, and personal 
 </p>
 
 ###
+---
+
+## 🎯 Current Goals
+- Growing as a **full-stack engineer** using ASP.NET Core and React.js  
+- Learning **DevOps & SRE tools** (CI/CD, containerization, monitoring)  
+- Becoming an effective **communicator and team collaborator**
+
+---
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=earlfranciss&theme=city_lights&hide_border=false&border_radius=5" height="180" alt="streak graph" />
@@ -66,17 +75,6 @@ Web app for task tracking, Pomodoro sessions, flashcards, quizzes, and personal 
 </picture>
 
 ###
-
-
-
----
-
-## 🎯 Current Goals
-- Growing as a **full-stack engineer** using ASP.NET Core and React.js  
-- Learning **DevOps & SRE tools** (CI/CD, containerization, monitoring)  
-- Becoming an effective **communicator and team collaborator**
-
----
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=earlfranciss&show_icons=true&theme=tokyonight" height="180" />
