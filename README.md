@@ -1,3 +1,6 @@
+![Header](https://raw.githubusercontent.com/earlfranciss/earlfranciss/main/github-header-banner.png)
+
+
 <h2 align="center">Hey 👋, I'm Earl!</h2>
 
 ###
@@ -84,11 +87,21 @@ Web app for task tracking, Pomodoro sessions, flashcards, quizzes, and personal 
 --- -->
 ###
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://open.spotify.com/user/31xs7vqkn4lpu6n7c6f3ltimuzuu" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xs7vqkn4lpu6n7c6f3ltimuzuu" alt="Spotify recently played" />
   </a>
-</div>
+</div> 
+
+Markdown code snippet:
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xs7vqkn4lpu6n7c6f3ltimuzuu)
+For custom count (1 ≤ {count} ≤ 10):
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xs7vqkn4lpu6n7c6f3ltimuzuu&count={count})
+For custom width (300 ≤ {width} ≤ 1000):
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xs7vqkn4lpu6n7c6f3ltimuzuu&width={width})
+For unique tracks :
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xs7vqkn4lpu6n7c6f3ltimuzuu&unique={true|1|on|yes})
+-->
 
 ###
 
