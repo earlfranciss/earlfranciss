@@ -30,9 +30,9 @@ I'm a passionate Software Engineer from the Philippines 🇵🇭, focused on bui
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=0:2e7d32,100:1b5e20" />
 
 </div>
-<div>
+<!-- <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=0:43a047,100:2e7d32" />
-</div>
+</div> -->
 
 
 ###
@@ -110,7 +110,7 @@ For unique tracks :
 
 
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2e7d32,100:1b5e20" />
 </div>
 
 ###
