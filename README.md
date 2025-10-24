@@ -27,7 +27,7 @@ I'm a passionate Software Engineer from the Philippines 🇵🇭, focused on bui
 
 
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=green" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=merko" />
 </div>
 
 
