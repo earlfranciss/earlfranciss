@@ -10,7 +10,7 @@
 ###
 
 <p align="center">
-I'm a passionate Software Engineer from the Philippines 🇵🇭, focused on building reliable, efficient, and scalable applications. I enjoy bridging the gap between development and operations—crafting solutions that not only work but perform seamlessly in production environments.<br><br>
+I'm an Associate Software Engineer from the Philippines<!--🇵🇭-->, focused on building reliable, efficient, and scalable applications. I enjoy bridging the gap between development and operations—crafting solutions that not only work but perform seamlessly in production environments.<br><br>
 </p>
 
 ###
@@ -21,7 +21,7 @@ I'm a passionate Software Engineer from the Philippines 🇵🇭, focused on bui
 
 
 <p align="center"><br>
-🌱 <b>Currently learning:</b> Site Reliability Engineering, DevOps practices, and Cloud Systems<br>
+🌱 <b>Currently learning:</b> Software Engineering principles, DevOps practices, and Cloud Systems<br>
 🚀 <b>Interests:</b> AI/ML, Cybersecurity, and Cloud-Native Engineering<br>
 </p>
 
@@ -119,23 +119,24 @@ For unique tracks :
 
 <h4 align="center">🌐 Connect with Me</h4>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/earl-francis-o-3370a3205" target="_blank">
+<p align="center" style="display:flex;justify-content:center;gap:12px;">
+  <a href="https://www.linkedin.com/in/earl-francis-o-3370a3205" target="_blank" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com" target="_blank">
+  <a href="https://twitter.com" target="_blank" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=twitter" height="35" alt="Twitter" />
   </a>
-  <a href="https://www.facebook.com/earlfrncis/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" height="35" alt="Facebook" />
+  <a href="https://www.facebook.com/earlfrncis/" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="35" alt="Facebook" />
   </a>
-  <a href="https://discord.com" target="_blank">
+  <a href="https://discord.com" target="_blank" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=discord" height="35" alt="Discord" />
   </a>
-  <a href="https://www.instagram.com/_earlfrncis/" target="_blank">
+  <a href="https://www.instagram.com/_earlfrncis/" target="_blank" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="Instagram" />
   </a>
 </p>
+
 
 ###
 
