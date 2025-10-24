@@ -70,20 +70,10 @@ Web app for task tracking, Pomodoro sessions, flashcards, quizzes, and personal 
 <div align="center">
   <!-- <img src="https://streak-stats.demolab.com?user=earlfranciss&theme=city_lights&hide_border=false&border_radius=5" height="180" alt="streak graph" />
   <img src="https://github-profile-trophy.vercel.app/?username=earlfranciss&theme=nord&row=1&no-bg=false&no-frame=true" height="150" alt="trophy graph" /> -->
-  <img src="https://streak-stats.demolab.com?user=earlfranciss&theme=vue&hide_border=false&border_radius=5" height="180" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=earlfranciss&theme=vue&row=1&no-bg=false&no-frame=true" height="150" alt="trophy graph" />
+  <img src="https://streak-stats.demolab.com?user=earlfranciss&theme=vue-dark&hide_border=false&border_radius=5" height="180" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=earlfranciss&theme=nord&row=1&no-bg=false&no-frame=true" height="150" alt="trophy graph" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=earlfranciss&theme=merko&hide_border=false&border_radius=5" height="180" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=earlfranciss&theme=gruvbox&row=1&no-bg=false&no-frame=true" height="150" alt="trophy graph" />
-</div>
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=earlfranciss&theme=vue&background=FFFFFF&ring=2e7d32&fire=43a047&currStreakNum=1b5e20&currStreakLabel=2e7d32&hide_border=false&border_radius=5" height="180" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=earlfranciss&theme=flat&title=Commit,Followers,Repositories,Stars&no-frame=true&no-bg=true&margin-w=15" height="150" alt="trophy graph" />
-</div>
 
 ###
 
