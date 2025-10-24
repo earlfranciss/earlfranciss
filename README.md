@@ -141,9 +141,10 @@ For unique tracks :
 ###
 
 <div align="center">
-  <b>Email:</b> earlfrancisong@gmail.com  
+  <b>Email:</b> 
+  <a href="mailto:earlfrancisong@gmail.com?subject=GitHub%20Inquiry">earlfrancisong@gmail.com</a>
   <br>
-  <b>Portfolio Website:</b> *coming soon*
+  <b>Portfolio Website:</b> <i>coming soon</i>
 </div>
 
 ###
