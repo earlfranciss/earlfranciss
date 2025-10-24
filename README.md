@@ -127,7 +127,7 @@ For unique tracks :
     <img src="https://skillicons.dev/icons?i=twitter" height="35" alt="Twitter" />
   </a>
   <a href="https://www.facebook.com/earlfrncis/" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="35" alt="Facebook" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" height="35" alt="Facebook" />
   </a>
   <a href="https://discord.com" target="_blank" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=discord" height="35" alt="Discord" />
