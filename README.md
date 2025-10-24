@@ -68,8 +68,10 @@ Web app for task tracking, Pomodoro sessions, flashcards, quizzes, and personal 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=earlfranciss&theme=city_lights&hide_border=false&border_radius=5" height="180" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=earlfranciss&theme=nord&row=1&no-bg=false&no-frame=true" height="150" alt="trophy graph" />
+  <!-- <img src="https://streak-stats.demolab.com?user=earlfranciss&theme=city_lights&hide_border=false&border_radius=5" height="180" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=earlfranciss&theme=nord&row=1&no-bg=false&no-frame=true" height="150" alt="trophy graph" /> -->
+  <img src="https://streak-stats.demolab.com?user=earlfranciss&theme=vue&hide_border=false&border_radius=5" height="180" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=earlfranciss&theme=vue&row=1&no-bg=false&no-frame=true" height="150" alt="trophy graph" />
 </div>
 
 ###
