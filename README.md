@@ -144,7 +144,7 @@ For unique tracks :
   <b>Email:</b> 
   <a href="mailto:earlfrancisong@gmail.com?subject=GitHub%20Inquiry">earlfrancisong@gmail.com</a>
   <br>
-  <b>Portfolio Website:</b> <i>coming soon</i>
+  <b>Portfolio Website:</b> <i>[Earl Francis Ong](https://earlfranciss.vercel.app/)</i>
 </div>
 
 ###
