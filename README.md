@@ -107,6 +107,11 @@ For custom width (300 ≤ {width} ≤ 1000):
 For unique tracks :
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xs7vqkn4lpu6n7c6f3ltimuzuu&unique={true|1|on|yes})
 -->
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67e02d408342031660227f25?variant=dark&roadmaps=full-stack%2Cai-engineer%2Chtml" alt="roadmap.sh"/></a>
+
+###
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67e02d408342031660227f25?variant=dark&roadmaps=full-stack%2Cai-engineer%2Chtml" alt="roadmap.sh"/></a>
 
 ###
 
