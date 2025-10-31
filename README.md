@@ -1,8 +1,5 @@
 ![Header](https://raw.githubusercontent.com/earlfranciss/earlfranciss/main/github-header-banner.png)
 
-
-<!-- <h2 align="center">Hey 👋, I'm Earl!</h2> -->
-
 ###
 
 <h3 align="center">Associate Software Engineer | DevOps & Cloud Practitioner | AI & Cybersecurity Enthusiast</h3>
@@ -28,12 +25,7 @@ I'm an Associate Software Engineer from the Philippines<!--🇵🇭-->, focused 
 
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=0:2e7d32,100:1b5e20" />
-
 </div>
-<!-- <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=0:43a047,100:2e7d32" />
-</div> -->
-
 
 ###
 
