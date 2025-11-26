@@ -2,7 +2,8 @@
 
 ###
 
-<h3 align="center">Associate Software Engineer | DevOps & Cloud Practitioner | AI & Cybersecurity Enthusiast</h3>
+<!-- <h3 align="center">Associate Software Engineer | DevOps & Cloud Practitioner | AI/Machine Learning Enthusiast</h3> -->
+<h3 align="center">Associate Software Engineer | AI/Machine Learning Enthusiast</h3>
 
 ###
 
