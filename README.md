@@ -8,7 +8,7 @@
 ###
 
 <p align="center">
-I'm an Associate Software Engineer from the Philippines<!--🇵🇭-->, focused on building reliable, efficient, and scalable applications. I enjoy bridging the gap between development and operations—crafting solutions that not only work but perform seamlessly in production environments.<br><br>
+I'm an Junior Software Engineer from the Philippines<!--🇵🇭-->, focused on building reliable, efficient, and scalable applications. I enjoy bridging the gap between development and operations—crafting solutions that not only work but perform seamlessly in production environments.<br><br>
 </p>
 
 ###
