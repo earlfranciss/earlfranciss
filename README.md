@@ -3,12 +3,12 @@
 ###
 
 <!-- <h3 align="center">Associate Software Engineer | DevOps & Cloud Practitioner | AI/Machine Learning Enthusiast</h3> -->
-<h3 align="center">Junior Software Engineer | AI/Machine Learning Enthusiast</h3>
+<h3 align="center">Software Engineer | MS Certified: Azure Administrator Associate & Solutions Architect Expert</h3>
 
 ###
 
 <p align="center">
-I'm an Junior Software Engineer from the Philippines<!--🇵🇭-->, focused on building reliable, efficient, and scalable applications. I enjoy bridging the gap between development and operations—crafting solutions that not only work but perform seamlessly in production environments.<br><br>
+I'm a Software Engineer from the Philippines<!--🇵🇭-->, focused on building reliable, efficient, and scalable applications. I enjoy bridging the gap between development and operations—crafting solutions that not only work but perform seamlessly in production environments.<br><br>
 </p>
 
 ###
@@ -30,7 +30,7 @@ I'm an Junior Software Engineer from the Philippines<!--🇵🇭-->, focused on 
 
 ###
 
-## 🚀 Project Portfolio 
+## Project Portfolio 
 
 ###
 <p align="left">
@@ -51,7 +51,7 @@ Web app for task tracking, Pomodoro sessions, flashcards, quizzes, and personal 
 ###
 ---
 
-## 🎯 Current Goals
+## Current Goals
 - Growing as a **full-stack engineer** using ASP.NET Core and React.js  
 - Learning **DevOps & SRE tools** (CI/CD, containerization, monitoring)  
 - Becoming an effective **communicator and team collaborator**
@@ -115,7 +115,7 @@ For unique tracks :
 
 ###
 
-<h4 align="center">🌐 Connect with Me</h4>
+<h4 align="center"> Connect with Me</h4>
 
 <p align="center" style="display:flex;justify-content:center;gap:12px;">
   <a href="https://www.linkedin.com/in/earl-francis-o-3370a3205" target="_blank" style="text-decoration:none;">
