@@ -19,7 +19,7 @@ I'm a Software Engineer from the Philippines<!--🇵🇭-->, focused on building
 
 
 <p align="center"><br>
-🌱 <b>Currently learning:</b> Software Engineering principles, DevOps practices, and Cloud Systems<br>
+🌱 <b>Currently learning:</b> DevOps practices, Cloud Systems, and Cybersecurity frameworks<br>
 🚀 <b>Interests:</b> AI/ML, Cybersecurity, and Cloud-Native Engineering<br>
 </p>
 
