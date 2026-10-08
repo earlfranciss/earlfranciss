@@ -52,8 +52,8 @@ Web app for task tracking, Pomodoro sessions, flashcards, quizzes, and personal 
 ---
 
 ## Current Goals
-- Growing as a **full-stack engineer** using ASP.NET Core and React.js  
-- Learning **DevOps & SRE tools** (CI/CD, containerization, monitoring)  
+- Growing as a **full-stack developer** and an **Azure cloud engineer** 
+- Learning **DevSecOps**
 - Becoming an effective **communicator and team collaborator**
 
 ---
@@ -63,7 +63,7 @@ Web app for task tracking, Pomodoro sessions, flashcards, quizzes, and personal 
   <!-- <img src="https://streak-stats.demolab.com?user=earlfranciss&theme=city_lights&hide_border=false&border_radius=5" height="180" alt="streak graph" />
   <img src="https://github-profile-trophy.vercel.app/?username=earlfranciss&theme=nord&row=1&no-bg=false&no-frame=true" height="150" alt="trophy graph" /> -->
   <img src="https://streak-stats.demolab.com?user=earlfranciss&theme=vue-dark&hide_border=false&border_radius=5" height="180" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=earlfranciss&theme=nord&row=1&no-bg=false&no-frame=true" height="150" alt="trophy graph" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=earlfranciss&theme=nord&row=1&no-bg=false&no-frame=true" height="150" alt="trophy graph" /> -->
 </div>
 
 
